@@ -1,0 +1,303 @@
+#nav-cta:hover {
+  padding: 14px 28px !important;
+  background-color: #003A6F !important;
+  box-shadow: 0px 3px 16px rgba(0,0,0,0.14);
+  border: none;
+  color: #ffffff !important;
+}
+
+#hero-cta:hover {
+  padding: 16px 38px !important;
+  background-color: #003A6F !important;
+  box-shadow: 0px 3px 16px rgba(0,0,0,0.14);
+}
+
+#hero-image:hover {
+  padding: 4px !important;
+}
+
+#about-experience:hover {
+  transform: translateY(-8px);
+}
+
+#about-relationships:hover {
+  transform: translateY(-8px);
+}
+
+#process-first:hover {
+  transform: translateY(-8px);
+}
+
+#process-second:hover {
+  transform: translateY(-8px);
+}
+
+#process-third:hover {
+  transform: translateY(-8px);
+}
+
+#testimonials-first:hover {
+  transform: translateY(-8px);
+}
+
+#testimonials-second:hover {
+  transform: translateY(-8px);
+}
+
+#testimonials-third:hover {
+  transform: translateY(-8px);
+}
+
+#nav-process:hover {
+  color: #1263ad;
+}
+
+#nav-about:hover {
+  color: #1263ad;
+}
+
+#nav-testimonials:hover {
+  color: #1263ad;
+}
+
+#about-cta:hover {
+  background-color: #003A6F !important;
+  box-shadow: 0px 3px 16px rgba(0,0,0,0.14);
+  border: none;
+  color: #ffffff !important;
+  padding: 16px 40px !important;
+}
+
+#accordion-1:hover {
+  color: #1263ad !important;
+  text-decoration: none;
+}
+
+#accordion-2:hover {
+  color: #1263ad !important;
+  text-decoration: none;
+}
+
+#accordion-3:hover {
+  color: #1263ad !important;
+  text-decoration: none;
+}
+
+#accordion-4:hover {
+  color: #1263ad !important;
+  text-decoration: none;
+}
+
+#accordion-5:hover {
+  color: #1263ad !important;
+  text-decoration: none;
+}
+
+#accordion-6:hover {
+  color: #1263ad !important;
+  text-decoration: none;
+}
+
+#accordion-7:hover {
+  color: #1263ad !important;
+  text-decoration: none;
+}
+
+#number-1:hover {
+  transform: translateY(-8px);
+}
+
+#number-2:hover {
+  transform: translateY(-8px);
+}
+
+#number-3:hover {
+  transform: translateY(-8px);
+}
+
+#number-4:hover {
+  transform: translateY(-8px);
+}
+
+#fall:hover {
+  transform: scale(0.98) !important;
+}
+
+#summer:hover {
+  transform: scale(0.98) !important;
+}
+
+#contact-maroc:hover {
+  background-color: #F3F7FB !important;
+}
+
+#contact-email:hover {
+  background-color: #F3F7FB !important;
+}
+
+#contact-belarus:hover {
+  background-color: #F3F7FB !important;
+}
+
+#contact-location:hover {
+  background-color: #F3F7FB !important;
+}
+
+#contact-facebook:hover {
+  background-color: #F3F7FB !important;
+}
+
+#contact-instagram:hover {
+  background-color: #F3F7FB !important;
+}
+
+#contact-whatsapp:hover {
+  background-color: #F3F7FB !important;
+}
+
+#about-cta-1:hover {
+  color: #fff !important;
+  padding: 16px 48px !important;
+  background-color: #003A6F !important;
+  box-shadow: 0px 3px 16px rgba(0,0,0,0.14);
+}
+
+#about-cta-2:hover {
+  color: #ffffff !important;
+  padding: 14px 44px !important;
+  background-color: #003A6F !important;
+  box-shadow: 0px 3px 16px rgba(0,0,0,0.14);
+}
+
+@media only screen and (max-width: 360px) {
+  hero-div {
+    padding-top: 40px;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  hero-h1 {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 480px) {
+  #hero-h1, #hero-h1 > span {
+    font-size: 32px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #hero-text {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  #hero-cta {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  #hero-note {
+    font-size: 14px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #about {
+    font-size: 18px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #about-cta-2 {
+    font-size: 14px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #process {
+    font-size: 18px !important;
+  }
+}
+
+@media (max-width: 992px) {
+  #hero-div {
+    padding: 40px 0px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #navcol-1 {
+    margin-top: 32px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #about-div {
+    padding: 40px 0px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #process-div {
+    padding: 40px 0px !important;
+  }
+}
+
+@media (max-width: 360px) {
+  #testimonials-div {
+    padding: 40px 0px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #footer-div {
+    padding-top: 40px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #contact {
+    font-size: 18px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #testimonials {
+    font-size: 18px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #copyrights-text {
+    font-size: 14px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .container-fluid {
+    margin-top: 40px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #about-cta-2 {
+    margin-top: 20px !important;
+  }
+}
+
+@media (max-width: 1024px) {
+  #hero-image {
+    padding-bottom: 32px !important;
+  }
+}
+
+@media (max-width: 576px) {
+  #header {
+    font-size: 23px !important;
+  }
+}
+

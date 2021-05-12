@@ -301,3 +301,33 @@
   }
 }
 
+#return-up {
+  position: fixed;
+  bottom: 28px;
+  right: 24px;
+  z-index: 10;
+  border-radius: 100px;
+  transition: 0.3s !important;
+}
+
+#return-up:hover {
+  transform: translateY(-3px);
+  box-shadow: 0px 2px 14px 0px rgba(0,0,0,0.14);
+}
+
+@media (max-width: 480px) {
+  #return-up {
+    width: 48px !important;
+    bottom: 16px;
+    right: 16px;
+  }
+}
+
+.hide {
+  opacity: 0;
+}
+
+.show {
+  opacity: 1;
+}
+
